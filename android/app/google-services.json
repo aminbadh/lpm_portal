@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "684065965924",
+    "firebase_url": "https://lpm-dev.firebaseio.com",
+    "project_id": "lpm-dev",
+    "storage_bucket": "lpm-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684065965924:android:b4fe167cd3cc5dbf631c71",
+        "android_client_info": {
+          "package_name": "com.aminbadh.tdradministrationlpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684065965924-k1ht7mg8cj5mqnvd87t80f31u20fkufg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbsTwEmyZlznuUQKuDn25hhmG2_Xsa7Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684065965924-k1ht7mg8cj5mqnvd87t80f31u20fkufg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684065965924:android:7d22c2ce5b2ac4b3631c71",
+        "android_client_info": {
+          "package_name": "com.aminbadh.tdrprofessorslpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684065965924-k1ht7mg8cj5mqnvd87t80f31u20fkufg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbsTwEmyZlznuUQKuDn25hhmG2_Xsa7Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684065965924-k1ht7mg8cj5mqnvd87t80f31u20fkufg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684065965924:android:26f8a947a1101c05631c71",
+        "android_client_info": {
+          "package_name": "com.badh.lpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684065965924-k1ht7mg8cj5mqnvd87t80f31u20fkufg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbsTwEmyZlznuUQKuDn25hhmG2_Xsa7Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684065965924-k1ht7mg8cj5mqnvd87t80f31u20fkufg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
