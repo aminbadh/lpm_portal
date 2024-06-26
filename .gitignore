@@ -44,3 +44,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Firebase related
+.firebase/
+.firebaserc
+firebase.json
+android/app/google-services.json
+
+# FVM Version Cache
+.fvm/
