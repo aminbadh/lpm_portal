@@ -1,16 +1,3 @@
-# lpm
+# LPM Portal
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A web and mobile app created using Flutter for Lycée Pilote Monastir (LPM). This portal is designed to serve various roles within the high school. The web app is a comprehensive platform for LPM, featuring general-purpose pages, along with tools for teachers to register student attendance and for administrators to monitor absences. The mobile app is specifically focused on enabling teachers to register attendance efficiently. Both versions include account management tools, language support for localization, and a request a feature button to gather user feedback for continuous improvement.
